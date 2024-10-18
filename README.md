@@ -46,6 +46,10 @@ Find the most popular movie based on data file and lookup the item file to get m
 
 
 ## Excercise-4
+Implement a recommendation system to find similar movies from the dataset used in Exercise 3.
+
+            python movie_similarities.py --items=sample_data/ml-100k/u.item sample_data/ml-100k/u.data > outputfolder/sims.txt
+
 
 
 

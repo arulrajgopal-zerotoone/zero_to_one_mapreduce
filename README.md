@@ -12,10 +12,14 @@ This repository provides a hands-on guide to MapReduce using the Python API.
 
 # Sample data
 
+## fakefriends.csv
+Schema -> ID, name, age, numFriends
+
+## 1800.csv
+location, date, type, data, x, y, z, w
 
 
 # Execution through windows cmd prmpt
-
 ## running fakefriends file
 
             python avg_friends_age.py sample_data/fakefriends.csv

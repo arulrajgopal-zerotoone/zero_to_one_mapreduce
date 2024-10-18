@@ -30,3 +30,6 @@ Find the frequency of each word from the give book file
             python word_frequency_counter.py sample_data/Book > outputfolder/words_frequency.txt
 
 
+## Excercise-3
+
+

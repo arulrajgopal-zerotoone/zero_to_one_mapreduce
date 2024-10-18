@@ -2,7 +2,7 @@
 This repository provides a hands-on guide to MapReduce using the Python API.
 
 
-#Pre-requiste
+# Pre-requiste
 1. Ensure winget is installed already
 
             winget --version

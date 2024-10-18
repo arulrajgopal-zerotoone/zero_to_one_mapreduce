@@ -31,5 +31,22 @@ Find the frequency of each word from the give book file
 
 
 ## Excercise-3
+Input files: -
+    u.item ->       user id | item id | rating | timestamp
+    u.data ->       movie id | movie title | release date | video release date |
+                    IMDb URL | unknown | Action | Adventure | Animation |
+                    Children's | Comedy | Crime | Documentary | Drama | Fantasy |
+                    Film-Noir | Horror | Musical | Mystery | Romance | Sci-Fi |
+                    Thriller | War | Western | last 19 fields are genre, 1 indicates that genre
+
+Find the most popular movie based on data file and lookup the item file to get movie name
+
+
+            python most_popular_movie.py --items=sample_data/ml-100k/u.item sample_data/ml-100k/u.data > outputfolder/most_popular_movie.txt
+
+
+## Excercise-4
+
+
 
 

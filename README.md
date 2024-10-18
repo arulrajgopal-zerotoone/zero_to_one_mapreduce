@@ -2,7 +2,7 @@
 This repository provides a hands-on guide to MapReduce using the Python API.
 
 
-#Pre-requiste
+# Pre-requiste
 1. Ensure winget is installed already
 
             winget --version
@@ -32,7 +32,9 @@ Find the frequency of each word from the give book file
 
 ## Excercise-3
 Input files: -
+
     u.item ->       user id | item id | rating | timestamp
+    
     u.data ->       movie id | movie title | release date | video release date |
                     IMDb URL | unknown | Action | Adventure | Animation |
                     Children's | Comedy | Crime | Documentary | Drama | Fantasy |

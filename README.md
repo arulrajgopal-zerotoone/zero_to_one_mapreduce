@@ -10,18 +10,15 @@ This repository provides a hands-on guide to MapReduce using the Python API.
 
 
 
-# Sample data
-
-## fakefriends.csv
-Schema -> ID, name, age, numFriends
-
-## 1800.csv
-location, date, type, data, x, y, z, w
-
-
 # Execution through windows cmd prmpt
-## running fakefriends file
+## Excercise-1
+Calculate the average number of friends by age from the sample_data/fakefriends.csv file, which has the schema (ID, name, age, numFriends).
 
-            python avg_friends_age.py sample_data/fakefriends.csv
+            python avg_friends_age.py sample_data/fakefriends.csv > outputfolder/avg_num_friends.csv
+
+
+
+## Excercise-2
+location, date, type, data, x, y, z, w
 
 

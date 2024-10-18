@@ -16,3 +16,7 @@ This repository provides a hands-on guide to MapReduce using the Python API.
 
 # Execution through windows cmd prmpt
 
+## running fakefriends file
+![image](https://github.com/user-attachments/assets/142bf669-9f41-45d9-a079-b7c3cfab2bf2)
+
+

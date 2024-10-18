@@ -33,6 +33,7 @@ Find the frequency of each word from the give book file
 ## Excercise-3
 Input files: -
     u.item ->       user id | item id | rating | timestamp
+    
     u.data ->       movie id | movie title | release date | video release date |
                     IMDb URL | unknown | Action | Adventure | Animation |
                     Children's | Comedy | Crime | Documentary | Drama | Fantasy |

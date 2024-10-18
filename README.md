@@ -3,12 +3,18 @@ This repository provides a hands-on guide to MapReduce using the Python API.
 
 
 #Pre-requiste
-1. Install python (This demo experimented with python version 3.12.7)
+1. Ensure winget is installed already
+
+            winget --version
+
+2. install python 
+
+            winget install Python.Python.3.9
+
 2. Install mrjob
+
+            pip install mrjob==0.6.12
    
-![image](https://github.com/user-attachments/assets/251eae9a-a783-4b02-ba96-b7b11322bb26)
-
-
 
 # Execution through windows cmd prmpt
 ## Excercise-1
@@ -19,6 +25,8 @@ Calculate the average number of friends by age from the sample_data/fakefriends.
 
 
 ## Excercise-2
-location, date, type, data, x, y, z, w
+Find the frequency of each word from the give book file
+
+            python word_frequency_counter.py sample_data/Book > outputfolder/words_frequency.txt
 
 

@@ -1,2 +1,2 @@
 # zero_to_one_mapreduce
-# test
+This repository provides a hands-on guide to MapReduce using the Python API.
